@@ -2,6 +2,7 @@
 Scripts for CEC Teachers
 
 Commands:
+
 CLANPOS <clan shortname> <person>
   This runs CLHELP <clan> and highlights the person's name in pink to easily identify their current position within the clan.
   
